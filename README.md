@@ -8,7 +8,7 @@ HTML, CSS.
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/epinczinger/newyork_times/main_page/index.html)
+[Live Demo Link]( https://wrakc.github.io/Tribute-Page/.)
 
 
 ## Authors
