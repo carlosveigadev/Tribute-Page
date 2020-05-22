@@ -1,4 +1,4 @@
-# Project Name
+# Tribute Page
 
 The aim of this project was to copy [this](https://codepen.io/freeCodeCamp/full/zNqgVx) to enhance html and css skills.
 
