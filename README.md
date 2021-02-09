@@ -8,16 +8,16 @@ HTML, CSS.
 
 ## Live Demo
 
-[Live Demo Link]( https://wrakc.github.io/Tribute-Page/.)
+[Live Demo Link]( https://carlosveigadev.github.io/Tribute-Page/.)
 
 
 ## Authors
 
 👤 **Carlos Veiga**
 
-- Github: [@wrakc](https://github.com/wrack)
-- Twitter: [@carlosveig](https://twitter.com/carlosveig)
-- Linkedin: [linkedin](https://linkedin.com/chveiga)
+- [GitHub](https://github.com/wrack)
+- [Twitter](https://twitter.com/carlosveig)
+- [LinkedIn](https://linkedin.com/chveiga)
 
 
 ## 🤝 Contributing
